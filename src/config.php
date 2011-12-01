@@ -1,0 +1,4 @@
+<?php
+
+$app['debug'] = true;
+
